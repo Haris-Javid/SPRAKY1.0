@@ -33,4 +33,15 @@ The STM32 GPIO port outputs a PWM signal to the GATE pin of the N-channel MOSFET
 
 ![Image](https://github.com/user-attachments/assets/b17fa8ce-dfe2-4bfa-8981-9aa05600d982)
 
+## nRF24L01
 
+### SPI Settings: 
+Frame Foramt: Motorola
+
+Data Size: 8 Bits
+
+First Bit: MSB First
+
+Clock Polarity: 0
+
+Clock Phase: 1
