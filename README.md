@@ -45,3 +45,5 @@ First Bit: MSB First
 Clock Polarity: 0
 
 Clock Phase: 1
+
+Max speed 2Mbps at 2.4 Ghz
